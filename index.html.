@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eliane</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Formulário</h1>
+    </header>
+    <main>
+        <p>Este é o conteúdo principal da minha página.</p>
+        <ul id="minhaLista">
+            </ul>
+    </main>
+    <footer>
+        <input type="text" id="novoItem">
+        <button onclick="adicionarItem()">Adicionar</button>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
